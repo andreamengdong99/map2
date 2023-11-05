@@ -9,15 +9,15 @@ const config = {
    * Replace this with your Mapbox Access Token (**Do this first!**)
    */
   accessToken:
-    'pk.eyJ1IjoibWFwYm94LWNvbW11bml0eSIsImEiOiJja2tkN21jcjAwMG51MnBxdHAxemdueGpzIn0.e0IzLkytGq4pcGGieP8KNA',
+    'pk.eyJ1IjoiYW5keW1lbmdkb25nOTkiLCJhIjoiY2xvaTAxajJlMGZ2eTJpbzJxbGd5cTZvcCJ9.MUnu_2xFJpVHOqzhkVLffA',
   /**
    * Replace with the url of your map style
    */
-  mapStyle: 'mapbox://styles/mapbox-community/ckglghzgg0d6y19pe11eo9zlw',
+  mapStyle: 'mapbox://styles/andymengdong99/clolmz21k000s01nw9haq6xoe',
   /**
    * The layer within the vector tileset to use for querying
    */
-  sourceLayer: 'hist-pres-election-county',
+  sourceLayer: 'woyaosile-17utff',
   /**
    * This sets the title in the sidebar and the <title> tag of the app
    */
