@@ -31,19 +31,56 @@ const config = {
    * Data fields to chart from the source data
    */
   fields: [
-    '2004_tot_vote_pop',
-    '2008_tot_vote_pop',
-    '2012_tot_vote_pop',
-    '2016_tot_vote_pop',
+    'X2000',
+    'X2001',
+    'X2002',
+    'X2003',
+    'X2004',
+    'X2005',
+    'X2006',
+    'X2007',
+    'X2008',
+    'X2009',
+    'X2010',
+    'X2011',
+    'X2012',
+    'X2013',
+    'X2014',
+    'X2015',
+    'X2016',
+    'X2017',
+    'X2018',
+    'X2019',
+    'X2020',
   ],
   /**
    * Labels for the X Axis, one for each field
    */
-  labels: ['2004', '2008', '2012', '2016'],
+  labels: ['X2000',
+    'X2001',
+    'X2002',
+    'X2003',
+    'X2004',
+    'X2005',
+    'X2006',
+    'X2007',
+    'X2008',
+    'X2009',
+    'X2010',
+    'X2011',
+    'X2012',
+    'X2013',
+    'X2014',
+    'X2015',
+    'X2016',
+    'X2017',
+    'X2018',
+    'X2019',
+    'X2020'],
   /**
    * The name of the data field to pull the place name from for chart labeling ("Total Votes in placeNameField, placeAdminField")
    */
-  placeNameField: 'name',
+  placeNameField: 'Agglomeration_Name',
   /**
    * (_Optional_) The name of the administrative unit field to use in chart labeling ("Total Votes in placeNameField, placeAdminField")
    */
